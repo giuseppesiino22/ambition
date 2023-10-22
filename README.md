@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Use pathlib in DOTA ops (#7552)
