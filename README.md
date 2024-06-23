@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fix Multi-GPU resume bug (#7328)
